@@ -1,0 +1,10 @@
+IaCognition v0.1 starter set
+
+Copy the repository files/directories in this package into the root of:
+https://github.com/IaCognition/iacognition
+
+This starter intentionally does NOT include LICENSE because the repository
+already contains the GitHub-generated Apache-2.0 license.
+
+Suggested commit message:
+  Establish IaCognition v0.1 framework foundation
